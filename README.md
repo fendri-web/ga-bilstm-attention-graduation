@@ -1,2 +1,2 @@
 # ga-bilstm-attention-kelulusan
-Kode pendukung penelitian: Kombinasi Genetic Algorithm dan Attention pada Model BiLSTM untuk Prediksi Kelulusan Mahasiswa
+Supporting code for: Combining Genetic Algorithm and Attention in BiLSTM for Student Graduation Prediction
